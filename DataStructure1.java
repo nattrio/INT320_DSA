@@ -73,9 +73,4 @@ public class DataStructure1 {
 //            System.out.println(test01[n - 1]);
         }
     }
-    
-public static void mergeSort(){
-    
-}
-
 }
