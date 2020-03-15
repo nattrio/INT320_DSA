@@ -1,5 +1,5 @@
 # INT320_DSA
-## ส่งงาน Data Structure &amp; Algorithm
+ส่งงาน Data Structure &amp; Algorithm
 ### สมาชิก:
 1. จิรพัทธ์ เกลาเกลี้ยง 61130500013
 2. ทศภูมิ เกียรติดำรงพร 61130500039
